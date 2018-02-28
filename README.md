@@ -15,7 +15,7 @@
     <td class="instructions">
 - RC1.0.2</td>
     <td width="50" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/app.installer/jb-rc1.0.2.plist"><img src="./cydia.png" height="48" width="48">
+     <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/app.installer/Electra.plist"><img src="./cydia.png" height="48" width="48">
      </a>
     </td>
    </tr>
