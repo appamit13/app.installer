@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to App.installer
 
-You can use the [editor on GitHub](https://github.com/appamit13/app.installer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## `iOS`
 
-### Markdown
+- Download JB beta11-3
+    <a href="itms-services://?action=download-manifest&url=">Download</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+     
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+RC 1.0.2 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/appamit13/app.installer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## `iOS`
+ <table>
+    <tbody>
+   <tr>
+    <td class="instructions">
+- Beta11-3
+    </td>
+    <td width="50" class="imagelink">
+     <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/app.installer/jb-beta11-3.plist"><img src="./cydia.png" height="50" width="50">
+     </a>
+    </td>
+   </tr>
+     
+   <tr>
+    <td class="instructions">
+- RC1.0.2</td>
+    <td width="50" class="imagelink">
+     <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/app.installer/jb-rc1.0.2.plist"><img src="./cydia.png" height="50" width="50">
+     </a>
+    </td>
+   </tr>
+   </tbody> </table>
