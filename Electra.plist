@@ -13,21 +13,13 @@
                                 <key>url</key>
                                 <string>https://github.com/coolstar/electra-ipas/raw/master/Electra%20b11-3.ipa</string>
                             </dict>
-                            <dict>
-                                <key>kind</key>
-                                <string>display-image</string>
-                                <key>needs-shine</key>
-                                <true/>
-                                <key>url</key>
-                                <string>https://i.imgur.com/ar5ElJd.png</string>
-                            </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                             <key>bundle-identifier</key>
                             <string>org.coolstar.electra</string>
                             <key>bundle-version</key>
-                            <string>0.33.1</string>
+                            <string>1.0</string>
                             <key>kind</key>
                             <string>software</string>
                             <key>title</key>
