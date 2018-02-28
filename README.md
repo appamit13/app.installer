@@ -1,16 +1,5 @@
 ## Welcome to App.installer
 
-
-## `iOS`
-
-- Download JB beta11-3
-    <a href="itms-services://?action=download-manifest&url=">Download</a>
-
-     
-
-
-RC 1.0.2 
-
 ## `iOS`
  <table>
     <tbody>
