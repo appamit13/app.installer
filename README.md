@@ -6,7 +6,7 @@
 - Beta11-3
     </td>
     <td width="50" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/app.installer/jb-beta11-3.plist"><img src="./cydia.png" height="48" width="48">
+     <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/app.installer/jb-beta11-3-i.plist"><img src="./cydia.png" height="48" width="48">
      </a>
     </td>
    </tr>
