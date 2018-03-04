@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>https://dl.dropbox.com/s/dtc4zbfcgdb5jrb/Electra%20b11-3.ipa</string>
 			        </dict>
+				<dict>
+                                        <key>kind</key>
+                                        <string>display-image</string>
+                                        <key>needs-shine</key>
+                                        <true/>
+                                        <key>url</key>
+                                        <string> https://dl.dropbox.com/s/jof10dbcjhcdmn4/appicon.png</string>
+                                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
