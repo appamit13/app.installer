@@ -2,38 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://dl.dropbox.com/s/dtc4zbfcgdb5jrb/Electra%20b11-3.ipa</string>
-			        </dict>
-				<dict>
-                                        <key>kind</key>
-                                        <string>display-image</string>
-                                        <key>needs-shine</key>
-                                        <true/>
-                                        <key>url</key>
-                                        <string> https://dl.dropbox.com/s/jof10dbcjhcdmn4/appicon.png</string>
-                                </dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>org.coolstar.electra</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>Electra</string>
-			</dict>
-		</dict>
-	</array>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://dl.dropbox.com/s/dtc4zbfcgdb5jrb/Electra%20b11-3.ipa</string>
+               </dict> 
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>org.coolstar.electra</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>Electra b11-3</string>
+               <key>title</key>
+               <string>Electra </string>
+           </dict>
+       </dict>
+   </array>
 </dict>
 </plist>
