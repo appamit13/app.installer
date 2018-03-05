@@ -15,7 +15,7 @@
     <td class="instructions">
 - RC1.0.2</td>
     <td width="50" class="imagelink">
-     <a href="itms-services://?action=download-manifest&url=https://dl.dropbox.com/s/kbrasy9qz36ky8f/appi.plist"><img src="./cydia.png" height="48" width="48">
+     <a href="itms-services://?action=download-manifest&url=https://dl.dropbox.com/s/m9q4bwzkgxhav5l/appi.plist"><img src="./cydia.png" height="48" width="48">
      </a>
     </td>
    </tr>
